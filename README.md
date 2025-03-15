@@ -12,7 +12,7 @@
 ## **🔧 Installation**
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/parmarkalpesh/gemini-chatbot.git
+git clone https://github.com/parmarkalpesh/Chatbot-Gemini.git
 cd gemini-chatbot
 ```
 
