@@ -2,7 +2,7 @@ import google.generativeai as genai
 import gradio as gr
 
 # Set up Gemini API Key
-genai.configure(api_key="AIzaSyAIB1mn4cyFqnJ77WTPWSC_03B1cmgQfoA")
+genai.configure(api_key="API_KEY")
 
 # Initialize the model
 model = genai.GenerativeModel("gemini-2.0-flash-lite")
